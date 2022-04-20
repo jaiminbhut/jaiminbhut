@@ -4,6 +4,8 @@
 - 📫 How to reach me 
 - LinkedIn Profile: https://in.linkedin.com/in/jaimin-bhut-%F0%9F%87%AE%F0%9F%87%B3-b55502154
 - Stackoverflow : https://stackoverflow.com/users/14816800/jaimin-bhut
+- Medium: https://medium.com/@jaiminbhut35
+- Mail: <a href="mailto:jaiminbhut35@gmail.com">✉️</a>
 
   <div>
     <a href="https://github.com/jaiminbhut/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaiminbhut&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jaimin's github stats"></a>
