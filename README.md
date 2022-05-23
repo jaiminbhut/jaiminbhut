@@ -7,11 +7,6 @@
 - Medium: https://medium.com/@jaiminbhut35
 - Mail: <a href="mailto:jaiminbhut35@gmail.com">✉️</a>
 
-  <div>
-    <a href="https://github.com/jaiminbhut/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaiminbhut&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jaimin's github stats"></a>
-    <a href="https://github.com/jaiminbhut/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiminbhut&layout=compact&theme=vue&hide_border=true"></a>
-  </div>
-
 <!---
 jaiminbhut/jaiminbhut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
