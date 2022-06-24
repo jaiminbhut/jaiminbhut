@@ -1,4 +1,4 @@
-- <h2> Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I’m Jaimin </h2>
+- <h2> Hello World! I’m Jaimin </h2>
 - 👀 I’m interested in mobile application development.
 - 🌱 I’m currently developing hybrid and native android applications.
 - 📫 How to reach me 
