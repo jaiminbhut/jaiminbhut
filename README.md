@@ -5,6 +5,7 @@
 - LinkedIn Profile: [https://in.linkedin.com/in/jaimin-bhut-%F0%9F%87%AE%F0%9F%87%B3-b55502154](https://www.linkedin.com/in/jaimin-bhut-b55502154)
 - Stackoverflow : https://stackoverflow.com/users/14816800/jaimin-bhut
 - Medium: https://medium.com/@jaiminbhut35
+- DEV Community: [https://dev.to/jaiminbhut](https://dev.to/jaiminbhut)
 - Mail: <a href="mailto:jaiminbhut35@gmail.com">✉️</a>
 
 <!---
