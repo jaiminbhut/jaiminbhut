@@ -23,4 +23,4 @@ I make the architecture decisions, review code and set the standards a team work
 
 ## Contact
 
-[devtownhall.com](https://devtownhall.com) · [LinkedIn](https://www.linkedin.com/in/jaimin-bhut) · [Email](mailto:jaiminbhut35@gmail.com) · [X](https://x.com/jaiminbhut_) · [Stack Overflow](https://stackoverflow.com/users/14816800/jaimin-bhut) · [Medium](https://medium.com/@jaiminbhut35) · [DEV](https://dev.to/jaiminbhut)
+[devtownhall.com](https://devtownhall.com) · [LinkedIn](https://www.linkedin.com/in/jaimin-bhut) · [Email](mailto:jaiminbhut35@gmail.com) · [X](https://x.com/jaiminbhut) · [Stack Overflow](https://stackoverflow.com/users/14816800/jaimin-bhut) · [Medium](https://medium.com/@jaiminbhut35) · [DEV](https://dev.to/jaiminbhut)
