@@ -4,7 +4,11 @@ Full-stack and mobile tech lead. I build iOS and Android apps from an empty repo
 
 ## Work you can check
 
-- **[Doorlist](https://github.com/jaiminbhut/doorlist)**: free event tickets with door check-in, which I'm building in the open as a reference project. It uses Angular, ASP.NET Core on .NET 10, EF Core and SQL Server, Docker and GitHub Actions. CI checks every pull request's migrations against the API version on `main`, and [a breaking schema change shipped in three expand/contract steps](https://github.com/jaiminbhut/doorlist/blob/main/docs/migrations.md). The deploy pipeline is rehearsed end to end, failure paths included.
+- **[Doorlist](https://github.com/jaiminbhut/doorlist)** ([v1.0.0](https://github.com/jaiminbhut/doorlist/releases/tag/v1.0.0)): free event tickets with door check-in, built in the open as a reference project.
+  - **Stack:** Angular, ASP.NET Core on .NET 10, EF Core and SQL Server, Docker and GitHub Actions.
+  - **Tickets** are signed QR codes that the door can check offline, and browser tests run the whole flow on every pull request.
+  - **Migrations:** CI checks every pull request's migrations against the API version on `main`, and [breaking schema changes ship in expand/contract steps](https://github.com/jaiminbhut/doorlist/blob/main/docs/migrations.md).
+  - **Deploys:** the pipeline is rehearsed end to end, failure paths included.
 - **[Flabs case study](https://devtownhall.com/work/flabs-healthcare-platform)**: four production React Native apps for a healthcare platform, serving about 10K users. I built them from scratch, moved them to Expo one app at a time, and set up CI/CD to the App Store and Google Play.
 - **[Clip & Board](https://devtownhall.com/clipboard)**: a native macOS clipboard manager in Swift and SwiftUI, in public beta.
 - **[Clarity](https://github.com/jaiminbhut/clarity)**: a speech companion app built with Expo.
