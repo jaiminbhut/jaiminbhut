@@ -4,7 +4,7 @@ Full-stack and mobile tech lead. I build iOS and Android apps from an empty repo
 
 ## Work you can check
 
-- **[Shiplog](https://github.com/jaiminbhut/shiplog)**: a release tracker that won't let a release ship until its checklist is done. I'm building it in the open as a reference project, with Angular, ASP.NET Core on .NET 10, EF Core and SQL Server, Docker and GitHub Actions. CI checks every pull request's migrations against the API version on `main`, and [a breaking schema change shipped in three expand/contract steps](https://github.com/jaiminbhut/shiplog/blob/main/docs/migrations.md).
+- **[Doorlist](https://github.com/jaiminbhut/doorlist)**: free event tickets with door check-in, which I'm building in the open as a reference project. It uses Angular, ASP.NET Core on .NET 10, EF Core and SQL Server, Docker and GitHub Actions. CI checks every pull request's migrations against the API version on `main`, and [a breaking schema change shipped in three expand/contract steps](https://github.com/jaiminbhut/doorlist/blob/main/docs/migrations.md). The deploy pipeline is rehearsed end to end, failure paths included.
 - **[Flabs case study](https://devtownhall.com/work/flabs-healthcare-platform)**: four production React Native apps for a healthcare platform, serving about 10K users. I built them from scratch, moved them to Expo one app at a time, and set up CI/CD to the App Store and Google Play.
 - **[Clip & Board](https://devtownhall.com/clipboard)**: a native macOS clipboard manager in Swift and SwiftUI, in public beta.
 - **[Clarity](https://github.com/jaiminbhut/clarity)**: a speech companion app built with Expo.
@@ -19,7 +19,7 @@ Full-stack and mobile tech lead. I build iOS and Android apps from an empty repo
 
 ## How I lead
 
-I make the architecture decisions, review code and set the standards a team works to, and plan and estimate the work. Shiplog shows how I run a codebase in public: [architecture decision records](https://github.com/jaiminbhut/shiplog/tree/main/docs/adr), [contribution rules](https://github.com/jaiminbhut/shiplog/blob/main/CONTRIBUTING.md), pull requests with a checklist, and a milestone roadmap.
+I make the architecture decisions, review code and set the standards a team works to, and plan and estimate the work. Doorlist shows how I run a codebase in public: [architecture decision records](https://github.com/jaiminbhut/doorlist/tree/main/docs/adr), [contribution rules](https://github.com/jaiminbhut/doorlist/blob/main/CONTRIBUTING.md), pull requests with a checklist, and a milestone roadmap.
 
 ## Contact
 
